@@ -1,0 +1,2 @@
+# talent-x
+personal project
